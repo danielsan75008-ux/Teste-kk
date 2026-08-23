@@ -8,7 +8,7 @@
 -- cache, and independent API error handling.
 
 local CONFIG = {
-    RScriptsAPIKey = "COLOQUE_SUA_API_KEY_AQUI",
+    RScriptsAPIKey = "rsc_live_SyIJb6i8oRHyCtizUPKIpAG6b5ZaJLsU",
     ScriptBloxBase = "https://scriptblox.com/api",
     RScriptsBase = "https://api.rscripts.net",
     RequestTimeout = 15,
