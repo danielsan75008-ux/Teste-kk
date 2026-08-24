@@ -35,8 +35,11 @@ local Config = {}
 local State = {
     Profiles = {},
     ActiveProfile = nil,
-    SystemPrompt = "",
-    RScriptsAPIKey = "",
+    SystemPrompt = "Você é um assistente especializado em programação Lua para Roblox.
+Responda em português.
+Seja direto e explique os erros no código.
+Nunca execute código automaticamente.Você é um especialista em LuaU Roblox",
+    RScriptsAPIKey = "rsc_live_SyIJb6i8oRHyCtizUPKIpAG6b5ZaJLsU",
     Theme = {
         Accent = Color3.fromRGB(255, 132, 0),
         Transparency = 0.12,
